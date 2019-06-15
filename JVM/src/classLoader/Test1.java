@@ -17,7 +17,7 @@ public class Test1 {
 
     @Override
     public String toString() {
-        return "Test1{" +
+        return "CountGc{" +
                 "name='" + name + '\'' +
                 '}';
     }
