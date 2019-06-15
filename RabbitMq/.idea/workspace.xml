@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ce4c0a-5b64-4964-a35a-dd6320353d87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/SendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topic/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resource/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/RabbitMq.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/route/Send.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/route/Send.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -126,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/topic/Consumer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="25" column="169" lean-forward="true" selection-start-line="25" selection-start-column="169" selection-end-line="25" selection-end-column="169" />
+            <state relative-caret-position="468">
+              <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -178,7 +168,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="312" />
     <option name="y" value="96" />
     <option name="width" value="1800" />
@@ -248,17 +238,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rabbitmqlearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMq" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabbitmqlearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMq" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -270,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559023430852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559025967702" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -389,16 +368,15 @@
       <workItem from="1558929165097" duration="13913000" />
       <workItem from="1558950194374" duration="14000" />
       <workItem from="1558961990027" duration="6668000" />
-      <workItem from="1559009749924" duration="3329000" />
+      <workItem from="1559009749924" duration="4032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24545000" />
+    <option name="totallyTimeSpent" value="25248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12447384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -417,7 +395,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18181819" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32876712" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -577,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/topic/Consumer2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" column="169" lean-forward="true" selection-start-line="25" selection-start-column="169" selection-end-line="25" selection-end-column="169" />
+        <state relative-caret-position="468">
+          <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
         </state>
       </provider>
     </entry>

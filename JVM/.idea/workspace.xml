@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc65e0a1-780a-4d05-bf6e-e63b9e59e9fb" name="Default Changelist" comment="" />
+    <list default="true" id="dc65e0a1-780a-4d05-bf6e-e63b9e59e9fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RabbitMq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RabbitMq/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="288">
+              <caret line="16" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -68,24 +71,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Study/JAVA/src.zip!/java/sql/DriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="86" column="57" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Study/JAVA/jre/lib/rt.jar!/sun/reflect/Reflection.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -93,24 +78,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Study/JAVA/src.zip!/java/util/Iterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Study/JAVA/src.zip!/java/util/ServiceLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3600">
-              <caret line="235" column="58" selection-start-line="235" selection-start-column="58" selection-end-line="235" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -125,7 +92,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,11 +117,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="80" />
-    <option name="width" value="1782" />
-    <option name="height" value="1047" />
+    <option name="x" value="312" />
+    <option name="y" value="96" />
+    <option name="width" value="1800" />
+    <option name="height" value="1290" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -162,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,32 +146,6 @@
               <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
               <item name="JVM" type="462c0819:PsiDirectoryNode" />
               <item name="MyClass" type="462c0819:PsiDirectoryNode" />
-              <item name="classLoader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
               <item name="classLoader" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,6 +185,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -253,7 +195,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558454777311" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RabbitMq" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -374,17 +316,26 @@
       <workItem from="1558681675790" duration="9437000" />
       <workItem from="1558922199908" duration="1517000" />
       <workItem from="1558929178260" duration="843000" />
+      <workItem from="1558961963515" duration="625000" />
+      <workItem from="1559009749816" duration="1204000" />
+      <workItem from="1559181746231" duration="599000" />
+      <workItem from="1559287894658" duration="1214000" />
+      <workItem from="1559307410399" duration="599000" />
+      <workItem from="1559441383524" duration="1762000" />
+      <workItem from="1559477675316" duration="835000" />
+      <workItem from="1559649467700" duration="1367000" />
+      <workItem from="1560606591420" duration="1018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35488000" />
+    <option name="totallyTimeSpent" value="44711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14251353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,7 +352,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22559653" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22291407" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -443,20 +394,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="1434" column="30" selection-start-line="1434" selection-start-column="30" selection-end-line="1434" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="262" column="38" lean-forward="true" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/Class.java" />
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/sql/DriverManager.java" />
+    <entry file="jar://C:/Study/JAVA/jre/lib/rt.jar!/sun/reflect/Reflection.class" />
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/Iterator.java" />
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/ServiceLoader.java" />
     <entry file="file://$PROJECT_DIR$/src/classLoader/MyClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -493,20 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="86" column="57" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Study/JAVA/jre/lib/rt.jar!/sun/reflect/Reflection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -517,24 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/ServiceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="235" column="58" selection-start-line="235" selection-start-column="58" selection-end-line="235" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="288">
+          <caret line="16" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
