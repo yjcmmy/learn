@@ -14,7 +14,7 @@ public class ClassLoaderPath {
 
         //java -Djava.system.class.loader=classLoader.MyClassLoader classLoader.ClassLoaderPath
         //需要写一个构造方法
-        //先要cd C:\Code\JVM\out\production\JVM
+        //先要cd C:\Code\learn\JVM\out\production\JVM
         System.out.println(System.getProperty("java.system.class.loader"));
     }
 }
