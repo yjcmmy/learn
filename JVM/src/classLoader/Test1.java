@@ -1,6 +1,8 @@
 package classLoader;
 
 
+import inner.Outter;
+
 public class Test1 {
     public String name;
 
@@ -25,6 +27,7 @@ public class Test1 {
         int a= 115;
         String s = String.valueOf(a);
         a = Integer.parseInt(s.substring(0, 1));
+        Outter outter=new Outter();
         System.out.println(a);
     }
 }

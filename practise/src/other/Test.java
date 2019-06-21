@@ -51,6 +51,23 @@ public class Test {
         System.out.println(queue.pollLast());
         System.out.println(queue.pollFirst());
 
+
         PriorityQueue<Integer>  priorityQueue=new PriorityQueue<>();
+    }
+}
+
+class A implements Runnable{
+    public int a =6;
+    @Override
+    public void run() {
+        
+        System.out.print(a);
+    }
+}
+
+class B extends Thread{
+    @Override
+    public void run() {
+        this.getThreadGroup();
     }
 }

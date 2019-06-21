@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc65e0a1-780a-4d05-bf6e-e63b9e59e9fb" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RabbitMq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RabbitMq/.idea/workspace.xml" afterDir="false" />
 =======
@@ -12,6 +13,14 @@
       <change beforePath="$PROJECT_DIR$/src/classLoader/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classLoader/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/~$JVM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$JVM.docx" afterDir="false" />
 >>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
+=======
+      <change afterPath="$PROJECT_DIR$/src/inner/Outter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JVM.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classLoader/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classLoader/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practise/src/other/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practise/src/other/Test.java" afterDir="false" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/proxy/MyProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/classLoader/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="594">
+              <caret line="33" column="157" lean-forward="true" selection-start-line="33" selection-start-column="157" selection-end-line="33" selection-end-column="157" />
             </state>
           </provider>
         </entry>
@@ -74,31 +80,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy0.class">
+        <entry file="file://$PROJECT_DIR$/out/production/JVM/gc/CountGc.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="25" column="51" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="51" />
+            <state relative-caret-position="414">
+              <caret line="23" column="157" lean-forward="true" selection-start-line="23" selection-start-column="157" selection-end-line="23" selection-end-column="157" />
+              <folding>
+                <element signature="e#0#437#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
 =======
         <entry file="file://$PROJECT_DIR$/src/classLoader/Test1.java">
+=======
+        <entry file="file://$PROJECT_DIR$/out/production/JVM/inner/Outter.class">
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state>
+              <folding>
+                <element signature="e#0#453#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gc/CountGc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -119,17 +134,27 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/JVM/classLoader/ClassLoaderPath.class">
           <provider selected="true" editor-type-id="text-editor" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/inner/Outter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="51" />
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -165,7 +190,6 @@
         <option value="$PROJECT_DIR$/src/classLoader/MyClassLoader.java" />
         <option value="$PROJECT_DIR$/src/classLoader/JdbcDriver.java" />
         <option value="$PROJECT_DIR$/src/classLoader/Spi.java" />
-        <option value="$PROJECT_DIR$/src/classLoader/Test1.java" />
         <option value="$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java" />
         <option value="$PROJECT_DIR$/src/proxy/Person.java" />
         <option value="$PROJECT_DIR$/src/proxy/Student.java" />
@@ -173,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/proxy/MyProxy.java" />
         <option value="$PROJECT_DIR$/src/gc/Test1.java" />
         <option value="$PROJECT_DIR$/src/gc/CountGc.java" />
+        <option value="$PROJECT_DIR$/src/classLoader/Test1.java" />
+        <option value="$PROJECT_DIR$/src/inner/Outter.java" />
       </list>
     </option>
   </component>
@@ -245,6 +271,59 @@
             <path>
               <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
               <item name="JVM" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="classLoader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,6 +337,12 @@
               <item name="JVM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
@@ -320,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountGc">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="CountGc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gc.CountGc" />
       <module name="JVM" />
@@ -388,6 +473,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.JdbcDriver" />
       <item itemvalue="Application.MyProxy" />
       <item itemvalue="Application.Spi" />
@@ -395,9 +481,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.CountGc" />
         <item itemvalue="Application.MyProxy" />
-        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Spi" />
         <item itemvalue="Application.JdbcDriver" />
       </list>
@@ -450,11 +536,18 @@
       <workItem from="1560305541036" duration="1890000" />
       <workItem from="1560337402030" duration="12081000" />
       <workItem from="1560579377498" duration="3673000" />
+<<<<<<< HEAD
 >>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
+=======
+      <workItem from="1560687647832" duration="607000" />
+      <workItem from="1560861448604" duration="596000" />
+      <workItem from="1560926829204" duration="2114000" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="44711000" />
   </component>
@@ -465,13 +558,19 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14251353" />
 =======
     <option name="totallyTimeSpent" value="71821000" />
+=======
+    <option name="totallyTimeSpent" value="75138000" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15718563" />
 >>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16167665" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -480,7 +579,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897383" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2826962" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2826962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44685465" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,10 +588,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22291407" />
 =======
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.36921528" />
 >>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.667002" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32897383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -695,33 +798,10 @@
     <entry file="file://$PROJECT_DIR$/out/production/JVM/classLoader/Test1.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9792">
-          <caret line="611" column="19" selection-start-line="611" selection-start-column="19" selection-end-line="611" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/proxy/MyProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="594">
           <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -730,8 +810,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy0.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
+        <state relative-caret-position="324">
           <caret line="25" column="51" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JVM/classLoader/ClassLoaderPath.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9792">
+          <caret line="611" column="19" selection-start-line="611" selection-start-column="19" selection-end-line="611" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gc/CountGc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/classLoader/Test1.java">
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="157" lean-forward="true" selection-start-line="33" selection-start-column="157" selection-end-line="33" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JVM/gc/CountGc.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="157" lean-forward="true" selection-start-line="23" selection-start-column="157" selection-end-line="23" selection-end-column="157" />
+          <folding>
+            <element signature="e#0#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JVM/inner/Outter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#453#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -739,6 +872,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="71" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -757,18 +900,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JVM/classLoader/ClassLoaderPath.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="51" />
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classLoader/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/inner/Outter.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="72">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
@@ -779,6 +920,10 @@
         <state relative-caret-position="126">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
 >>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
+=======
+        <state relative-caret-position="247">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+>>>>>>> 38636e754fdaaeeb36e05d1a0cf366656eb27762
         </state>
       </provider>
     </entry>
