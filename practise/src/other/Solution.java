@@ -67,13 +67,19 @@ public class Solution {
 //        int i = Solution.InversePairs(array);
 //        System.out.println();
 //        System.out.println(i);
+//        Solution solution = new Solution();
+//        String a="ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS";
+//        char[] chars = a.toCharArray();
+//        String b="SGGFIECVAASABCEHJIGQEMS";
+//        char[] chars2 = b.toCharArray();
+//        boolean result=solution.hasPath(chars,5,8,chars2);
+//        System.out.println(result);
+
+        int[] a={1,2,6,7};
+        int[] b={3,4,5,8};
         Solution solution = new Solution();
-        String a="ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS";
-        char[] chars = a.toCharArray();
-        String b="SGGFIECVAASABCEHJIGQEMS";
-        char[] chars2 = b.toCharArray();
-        boolean result=solution.hasPath(chars,5,8,chars2);
-        System.out.println(result);
+        double medianSortedArrays = solution.findMedianSortedArrays(a, b);
+        System.out.print(medianSortedArrays);
     }
 
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str)
@@ -164,5 +170,90 @@ public class Solution {
                 strMap.put((Character)map[i][j][0],strMap.get(map[i][j][0])+1);
             }
         }
+    }
+
+
+
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        if(nums1.length==0){
+            if(nums2.length%2==0){
+                return (nums2[nums2.length/2-1]+nums2[nums2.length/2])/2.0;
+            }else{
+                return nums2[nums2.length/2];
+            }
+        }
+        if(nums2.length==0){
+            if(nums1.length%2==0){
+                return (nums1[nums1.length/2-1]+nums1[nums1.length/2])/2.0;
+            }else{
+                return nums1[nums1.length/2];
+            }
+        }
+        return findMedianSortedArrays(nums1,nums2,0,nums1.length-1,0,nums2.length-1);
+    }
+
+    public double findMedianSortedArrays(int[] nums1, int[] nums2,int start1,int end1,int start2,int end2){
+        if(end1-start1<=1||end2-start2<=1){
+            int sum=end1+end2-start1-start2+2;
+            int count=0;
+            int pre=0;
+            int cur=0;
+            while(count<sum/2){
+                if(start1>end1){
+                    pre=nums2[start2];
+                    start2++;
+                    count++;
+                    continue;
+                }
+                if(start2>end2){
+                    pre=nums1[start1];
+                    start1++;
+                    count++;
+                    continue;
+                }
+                if(nums1[start1]<=nums2[start2]){
+                    pre=nums1[start1];
+                    start1++;
+                    count++;
+                }else{
+                    pre=nums2[start2];
+                    start2++;
+                    count++;
+                }
+
+            }
+            if(start1>end1){
+                cur=nums2[start2];
+            }else{
+                if(start2>end2){
+                    cur=nums1[start1];
+                } else{
+                    cur=nums1[start1]>nums2[start2]?nums2[start2]:nums1[start1];
+                }
+            }
+            if(sum%2!=0){
+                return cur;
+            }else{
+                return (pre+cur)/2.0;
+            }
+        }
+
+        double result=0;
+        int l1=end1-start1;
+        int l2=end2-start2;
+        int m1=l1/2+start1;
+        int m2=l2/2+start2;
+        if(l1>=l2){
+            if(nums1[m1]<=nums2[m2]){
+                return findMedianSortedArrays(nums1,nums2,Math.min(m1-(m1-start1)+(end2-m2-1),end1),Math.max(m1-(m1-start1)+(end2-m2-1),end1),start2,m2+1);
+            }
+            if(nums1[m1]>nums2[m2]){
+                return findMedianSortedArrays(nums1,nums2,Math.min(start1,end1-(m2-start2)),Math.max(start1,end1-(m2-start2)),m2,end2);
+            }
+
+        }else{
+            return findMedianSortedArrays(nums2,nums1,start2,end2,start1,end1);
+        }
+        return 0.0;
     }
 }
