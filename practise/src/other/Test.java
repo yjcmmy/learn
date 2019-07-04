@@ -1,6 +1,12 @@
 package other;
 
+import com.sun.org.apache.xpath.internal.operations.String;
+
+import javax.print.DocFlavor;
 import java.util.*;
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ThreadPoolExecutor;
 
 public class Test {
     public static void main(String args[]) {
@@ -38,9 +44,6 @@ public class Test {
         System.out.println(b.size());
         System.out.println(map.get('a'));
 
-
-
-
         ArrayDeque<Integer> queue = new ArrayDeque<>();
         queue.add(1);
         queue.add(2);
@@ -50,6 +53,10 @@ public class Test {
         System.out.println(queue.poll());
         System.out.println(queue.pollLast());
         System.out.println(queue.pollFirst());
+        char[][] map3=new char[1][1];
+        boolean b1 = map3[0][0] !='\0';
+
+        Executors.newCachedThreadPool();
 
 
         PriorityQueue<Integer>  priorityQueue=new PriorityQueue<>();
