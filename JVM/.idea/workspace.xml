@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sql/sql优化.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../简历.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../简历.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practise/src/other/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practise/src/other/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -81,6 +78,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -103,12 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562309296940</updated>
-      <workItem from="1562309299574" duration="301000" />
+      <workItem from="1562309299574" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301000" />
+    <option name="totallyTimeSpent" value="657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="0" width="1844" height="1132" extended-state="1" />

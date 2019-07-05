@@ -63,10 +63,16 @@ public class Test {
         boolean a1 = s1.contains("substring");
         StringBuilder s2=new StringBuilder();
         s1.charAt(1);
+
+        StringBuilder append = s2.append(s1.charAt(1));
+
+        List q=new ArrayList<Integer>();
+        q.add(1);
+        q.add(2);
+        List w=new ArrayList(q);
+        q.remove(1);
+        System.out.println("len"+w.size());
         
-        s2.append(s1.charAt(1));
-
-
     }
 }
 
