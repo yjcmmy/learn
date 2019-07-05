@@ -1,10 +1,8 @@
 package other;
 
-
-import java.io.BufferedInputStream;
 import java.util.*;
-import java.util.concurrent.ThreadFactory;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.Executors;
+
 
 public class Test {
     public static void main(String args[]) {
@@ -41,8 +39,8 @@ public class Test {
         map2[0][0][1] = 1;
         System.out.println(b.size());
         System.out.println(map.get('a'));
-        int length = map2.length;
 
+        int length = map2.length;
 
         ArrayDeque<Integer> queue = new ArrayDeque<>();
         queue.add(1);
@@ -53,6 +51,10 @@ public class Test {
         System.out.println(queue.poll());
         System.out.println(queue.pollLast());
         System.out.println(queue.pollFirst());
+        char[][] map3=new char[1][1];
+        boolean b1 = map3[0][0] !='\0';
+
+        Executors.newCachedThreadPool();
 
         String s1 = "assssassa";
         
