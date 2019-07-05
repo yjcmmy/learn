@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="27ce4c0a-5b64-4964-a35a-dd6320353d87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
     <list default="true" id="1bc75668-3011-4577-b25d-4bb36aa81280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Dubbo+Zookeeper/~$笔记.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVM/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -114,11 +120,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/simple/Send.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="468">
+              <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+=======
             <state relative-caret-position="216">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
             </state>
           </provider>
         </entry>
@@ -144,10 +155,21 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="312" />
+    <option name="y" value="96" />
+    <option name="width" value="1800" />
+    <option name="height" value="1290" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+=======
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="80" />
     <option name="width" value="1784" />
     <option name="height" value="1049" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -216,11 +238,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="rabbitmqlearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="RabbitMq" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
           </expand>
           <select />
         </subPane>
@@ -232,9 +257,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559025967702" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+=======
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -258,18 +294,34 @@
       <created>1559808134845</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1558928506355</updated>
+      <workItem from="1558928507689" duration="621000" />
+      <workItem from="1558929165097" duration="13913000" />
+      <workItem from="1558950194374" duration="14000" />
+      <workItem from="1558961990027" duration="6668000" />
+      <workItem from="1559009749924" duration="4032000" />
+=======
       <updated>1559808134845</updated>
       <workItem from="1559808138188" duration="3255000" />
       <workItem from="1560065657612" duration="59000" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="25248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="7" />
+=======
     <option name="totallyTimeSpent" value="4135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="0" width="1427" height="839" extended-state="1" />
     <editor active="true" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19941564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -288,7 +340,11 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18181819" />
+=======
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23762377" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -411,8 +467,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/route/Consumer1.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="468">
+          <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+=======
         <state relative-caret-position="454">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
+>>>>>>> 28a62fe84c5fbdd32c6a143d2be17ea3f0dabd37
         </state>
       </provider>
     </entry>
