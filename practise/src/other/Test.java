@@ -72,7 +72,26 @@ public class Test {
         List w=new ArrayList(q);
         q.remove(1);
         System.out.println("len"+w.size());
-        
+
+        Test test = new Test();
+        int i = test.numDecodings("9371597631128776948387197132267188677349946742344217846154932859125134924241649584251978418763151253");
+        System.out.println(i);
+    }
+
+    public int numDecodings(String s) {
+        int result;
+        if(s.equals("")){
+            return 1;
+        }
+        if(s==null||s.substring(0,1).equals("0")){
+            return 0;
+        }
+
+        if(s.length()>=2&&0<Integer.valueOf(s.substring(0,2))&&Integer.valueOf(s.substring(0,2))<=26){
+            return numDecodings(s.substring(2))+numDecodings(s.substring(1));
+        }
+
+        return numDecodings(s.substring(1));
     }
 }
 
