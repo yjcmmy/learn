@@ -16,5 +16,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="cglib-2.2.2" level="project" />
+    <orderEntry type="library" name="asm" level="project" />
   </component>
 </module>
