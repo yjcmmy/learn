@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring笔记.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../简历.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../简历.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../简历.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../简历.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,6 +228,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,17 +318,17 @@
       <workItem from="1563278157507" duration="3250000" />
       <workItem from="1563346711174" duration="594000" />
       <workItem from="1563421411566" duration="711000" />
+      <workItem from="1563518594654" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26607000" />
+    <option name="totallyTimeSpent" value="27200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="0" width="1844" height="1132" extended-state="1" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17525196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1769317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
