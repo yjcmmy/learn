@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="" />
+    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring笔记.docx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,46 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classLoader/ClassLoaderPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Study/JAVA/src.zip!/java/util/ServiceLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8928">
-              <caret line="535" column="39" selection-start-line="535" selection-start-column="39" selection-end-line="535" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar!/com/mysql/jdbc/Driver.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -72,10 +39,46 @@
         <entry file="file://$PROJECT_DIR$/src/classLoader/MyClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="41" />
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10314">
+              <caret line="638" column="29" selection-start-line="638" selection-start-column="29" selection-end-line="638" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proxy/MyProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="789">
+              <caret line="833" column="35" selection-start-line="833" selection-start-column="35" selection-end-line="833" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/WeakCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3600">
+              <caret line="229" column="59" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -130,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +202,13 @@
             </path>
             <path>
               <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="MyProxy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JVM" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -227,8 +239,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,16 +329,18 @@
       <workItem from="1563346711174" duration="594000" />
       <workItem from="1563421411566" duration="711000" />
       <workItem from="1563518594654" duration="593000" />
+      <workItem from="1563610821637" duration="3630000" />
+      <workItem from="1563689158241" duration="595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27200000" />
+    <option name="totallyTimeSpent" value="31425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="0" width="1844" height="1132" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1769317" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18029115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/WeakCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="229" column="80" selection-start-line="229" selection-start-column="71" selection-end-line="229" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/sun/cglib/HelloService$$FastClassByCGLIB$$37e7b6d0.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -519,24 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12024">
-          <caret line="711" selection-start-line="711" selection-end-line="711" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6192">
           <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/MyProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -587,6 +578,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Study/JAVA/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6804">
@@ -597,10 +595,31 @@
     <entry file="file://$PROJECT_DIR$/src/classLoader/MyClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="41" />
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10314">
+          <caret line="638" column="29" selection-start-line="638" selection-start-column="29" selection-end-line="638" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxy/MyProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/WeakCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="229" column="59" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -617,10 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="789">
+          <caret line="833" column="35" selection-start-line="833" selection-start-column="35" selection-end-line="833" selection-end-column="35" />
         </state>
       </provider>
     </entry>
