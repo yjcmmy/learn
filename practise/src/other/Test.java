@@ -56,7 +56,7 @@ public class Test {
         boolean b1 = map3[0][0] !='\0';
 
         Executors.newCachedThreadPool();
-        new ThreadPoolExecutor(0,)
+
 
 
         String s1 = "assssassa";
