@@ -7,6 +7,8 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 public class Test {
     public static void main(String args[]) {
+        
+
         HashMap<Character, Integer> map = new HashMap<>();
         map.put('a', 111);
         map.put('a', 22);
@@ -69,14 +71,15 @@ public class Test {
 
         StringBuilder append = s2.append(s1.charAt(1));
 
-        List q=new ArrayList<Integer>();
+        List<Integer> q=new ArrayList<Integer>();
         q.add(1);
         q.add(2);
         List w=new ArrayList(q);
         q.remove(1);
         System.out.println("len"+w.size());
-
-
+        Integer[] result=new Integer[q.size()];
+        q.toArray(result);
+         
         Test test = new Test();
         int i = test.numDecodings("9371597631128776948387197132267188677349946742344217846154932859125134924241649584251978418763151253");
         System.out.println(i);
