@@ -56,7 +56,7 @@ public class Test {
         boolean b1 = map3[0][0] !='\0';
 
         Executors.newCachedThreadPool();
-        new ThreadPoolExecutor(0,)
+
 
 
         String s1 = "assssassa";
@@ -75,8 +75,11 @@ public class Test {
         List w=new ArrayList(q);
         q.remove(1);
         System.out.println("len"+w.size());
+        PriorityQueue<Object> objects1 = new PriorityQueue<>();
+        objects1.offer(111);
+        objects1.peek();
 
-
+        
         Test test = new Test();
         int i = test.numDecodings("9371597631128776948387197132267188677349946742344217846154932859125134924241649584251978418763151253");
         System.out.println(i);
