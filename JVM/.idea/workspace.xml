@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020届-羊竟成-18717878625@163.com-18717878625-Java后端开发.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/spring笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../秋招笔试/秋招笔试.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/秋招笔试.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../面试记录.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../面试记录.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classLoader/Spi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Study/JAVA/src.zip!/java/sql/DriverManager.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10314">
+            <state relative-caret-position="10350">
               <caret line="638" column="29" selection-start-line="638" selection-start-column="29" selection-end-line="638" selection-end-column="29" />
             </state>
           </provider>
@@ -65,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
+            <state relative-caret-position="14220">
               <caret line="833" column="35" selection-start-line="833" selection-start-column="35" selection-end-line="833" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -123,9 +131,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="80" />
-    <option name="width" value="2305" />
-    <option name="height" value="1415" />
+    <option name="x" value="-18" />
+    <option name="y" value="-18" />
+    <option name="width" value="2425" />
+    <option name="height" value="1375" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -239,6 +247,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,16 +340,21 @@
       <workItem from="1563518594654" duration="593000" />
       <workItem from="1563610821637" duration="3630000" />
       <workItem from="1563689158241" duration="595000" />
+      <workItem from="1564752498002" duration="628000" />
+      <workItem from="1564919205273" duration="588000" />
+      <workItem from="1565073748370" duration="593000" />
+      <workItem from="1565090666843" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31425000" />
+    <option name="totallyTimeSpent" value="33831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="0" width="1844" height="1132" extended-state="1" />
+    <frame x="-14" y="-14" width="1940" height="1100" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18029115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20851064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -564,13 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar!/com/mysql/jdbc/Driver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -604,7 +611,7 @@
     </entry>
     <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10314">
+        <state relative-caret-position="10350">
           <caret line="638" column="29" selection-start-line="638" selection-start-column="29" selection-end-line="638" selection-end-column="29" />
         </state>
       </provider>
@@ -613,6 +620,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14220">
+          <caret line="833" column="35" selection-start-line="833" selection-start-column="35" selection-end-line="833" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -636,10 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Study/JAVA/src.zip!/java/lang/reflect/Proxy.java">
+    <entry file="file://$PROJECT_DIR$/src/classLoader/JdbcDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="833" column="35" selection-start-line="833" selection-start-column="35" selection-end-line="833" selection-end-column="35" />
+        <state relative-caret-position="108">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
