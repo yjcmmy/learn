@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2020届-羊竟成-18717878625@163.com-18717878625-Java后端开发.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo+Zookeeper/笔记.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/spring笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring笔记.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../秋招笔试/src/pingDuoDuo/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/out/src/pingDuoDuo/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../秋招笔试/秋招笔试.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../秋招笔试/秋招笔试.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../面试记录.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../面试记录.docx" afterDir="false" />
-    </list>
+    <list default="true" id="0dde9447-b89d-472d-925e-fa94fe4ef032" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
+    <option name="x" value="-19" />
+    <option name="y" value="-19" />
     <option name="width" value="2425" />
     <option name="height" value="1375" />
   </component>
@@ -142,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -247,7 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,17 +333,18 @@
       <workItem from="1564919205273" duration="588000" />
       <workItem from="1565073748370" duration="593000" />
       <workItem from="1565090666843" duration="597000" />
+      <workItem from="1565332733611" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33831000" />
+    <option name="totallyTimeSpent" value="34429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="-14" width="1940" height="1100" extended-state="1" />
+    <frame x="-15" y="-15" width="1940" height="1100" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20851064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2109458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
