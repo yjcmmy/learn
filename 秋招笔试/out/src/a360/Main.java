@@ -1,75 +1,40 @@
 package a360;
 
-
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        while(scanner.hasNext()){
-            int n=scanner.nextInt();
-            int m=scanner.nextInt();
-            LinkedList<Integer> a = new LinkedList<>();
-            LinkedList<Integer> b = new LinkedList<>();
-            for(int i=0;i<n;i++){
-               a.add(scanner.nextInt());
-            }
-            for(int i=0;i<n;i++){
-                b.add(scanner.nextInt());
-            }
-            Collections.sort(a);
-            Collections.sort(b);
-            int[] result=new int[n];
-            int count=0;
-            int cur=1;
-            while(a.size()>0){
-                int q = find(a, b, m - cur)+find(a,b,2*m-cur);
-                for(int i=0;i<q;i++){
-                     result[count+i]=m-cur;
-                }
-                count+=q;
-                cur++;
-            }
-            for(int i=0;i<n;i++){
-                System.out.print(result[i]+" ");
-            }
+        int n =scanner.nextInt();
+        int[] input=new int[n];
+        for(int i=0;i<n;i++){
+            input[i]=scanner.nextInt();
         }
-        scanner.close();
+        System.out.println(getMax(n,input));
     }
 
-    static int find(List<Integer> a,List<Integer> b,int target){
-        int len=a.size();
-        int left=0;
-        int right=len-1;
-        int count=0;
-        
-        while(left<len&&right>=0){
-            int cur=a.get(left)+b.get(right);
-            if(cur==target){
-               count++;
-               a.set(left,-1);
-               b.set(right,-1);
-               left++;
-               right--;
-            }else{
-                if(cur>target){
-                    right--;
-                } else {
-                    left++;
+    public static int getMax(int n, int[] input) {
+        int max = 0;
+        //i是边数
+        for(int i=n;i>=3;i--){
+            //这个是判断i条边是否能构成正i边形
+            if(n%i!=0){
+                continue;
+            }
+            //a是边数为i时共有a种情况
+            int a=n/i;
+            for(int j=0;j<a;j++){
+                int curMax=0;
+                for(int k=0;k<i;k++){
+                     curMax+= input[a*k+j];
                 }
+                max=Math.max(curMax,max);
             }
         }
-        remove(a);
-        remove(b);
-        return count;
+
+        return  max;
     }
-    static void remove(List<Integer> a) {
-         for(int i=0;i<a.size();i++){
-             if(a.get(i)==-1){
-                 a.remove(i);
-                 i--;
-             }
-         }
-    }
+
+
 }
