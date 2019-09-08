@@ -132,8 +132,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="157" />
-    <option name="width" value="2425" />
-    <option name="height" value="1375" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -253,7 +254,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,17 +373,18 @@
       <workItem from="1566907258789" duration="593000" />
       <workItem from="1566996406995" duration="599000" />
       <workItem from="1567076179102" duration="593000" />
+      <workItem from="1567508491484" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42230000" />
+    <option name="totallyTimeSpent" value="42235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="0" width="1940" height="1100" extended-state="1" />
+    <frame x="157" y="0" width="1940" height="1100" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18138298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18297872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
